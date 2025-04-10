@@ -9,7 +9,7 @@ Alunos:
 NOME: Bruno Batista Carrião Moreno
 RA: 24284115-2
 
-NOME:Gabriel Malavazi Rodrigues
+NOME: Gabriel Malavazi Rodrigues
 RA:22145231-2
 
 NOME: João Paulo de Andrade Gonçalves 
