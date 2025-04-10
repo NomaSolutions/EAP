@@ -32,19 +32,23 @@ pessoa responsável por fazê-las (Pacote de Trabalho).
 Cards das tarefas na mesma ordem em que estão no diagrama (de cima para baixo)
 
 - Card de iniciar backend:
+  
 ![card-backend](card-backend.png)
 
 ---
 
 - Card da autenticação:
+  
 ![card-autenticação](./card-autenticação.png)
 
 ---
 
 - Card de mensageria:
+  
 ![card-mensageria](card-mensageria.png)
 
 ---
 
 - Card do logManager:
+  
 ![card-logs](card-logs.png)
