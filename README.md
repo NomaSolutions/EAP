@@ -60,7 +60,7 @@ Cards das tarefas na mesma ordem em que estão no diagrama (de cima para baixo)
 
 - Criar a tela de Login
 
-![card-tela-de-login](CriarTeladeLogin.png)
+![card-tela-de-login](https://github.com/NomaSolutions/EAP/blob/fc2340b20327ac5d83ca3aa0c1c521fc89fdb156/Criar%20Tela%20de%20Login.png)
 
 ---
 
