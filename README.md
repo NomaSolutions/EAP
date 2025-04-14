@@ -77,11 +77,54 @@ Cards das tarefas na mesma ordem em que estão no diagrama (de cima para baixo)
 ---
 ## DO PROJETO
 
+- Guia de Convenções de Codificação:
+  
+![guia-de-convencoes-de-codificacao]()
+
+---
+
+- Plano de Configuração:
+  
+![plano-de-configuracao]()
+
+---
+
+- Métricas do Projeto:
+  
+![metricas-do-projeto]()
+
+---
+
+- Termo de Abertura do Projeto:
+  
+![metricas-do-projeto]()
+
 ---
 ## DA EQUIPE
+
+- Combinados da Equipe:
+  
+![combinados-da-equipe]()
+
+---
+
+- Métricas da Equipe:
+  
+![metricas-da-equipe]()
+
+---
+
+- Não conformidades/impedimentos:
+  
+![nao-conformidades/impedimentos]()
+
 
 ---
 ## ALINHAMENTOS
 
 ---
 ## FLUXOGRAMAS
+
+- Fluxograma de como funciona o Trello:
+  
+![fluxograma-trello]()
