@@ -30,7 +30,7 @@ pessoa responsável por fazê-las (Pacote de Trabalho).
 
 Cards das tarefas na mesma ordem em que estão no diagrama (de cima para baixo)
 
-##BACKEND
+## BACKEND
 ---
 
 - Card de iniciar backend:
@@ -56,16 +56,16 @@ Cards das tarefas na mesma ordem em que estão no diagrama (de cima para baixo)
 ![card-logs](card-logs.png)
 
 ---
-##FRONTEND
+## FRONTEND
 
 ---
-##DO PROJETO
+## DO PROJETO
 
 ---
-##DA EQUIPE
+## DA EQUIPE
 
 ---
-##ALINHAMENTOS
+## ALINHAMENTOS
 
 ---
-##FLUXOGRAMAS
+## FLUXOGRAMAS
