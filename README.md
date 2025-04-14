@@ -66,13 +66,13 @@ Cards das tarefas na mesma ordem em que estão no diagrama (de cima para baixo)
 
 - Criar a tela da Home
 
-![card-tela-da-home]((https://github.com/NomaSolutions/EAP/blob/0a39155f8eb53e8fc86daff0bdd6ee692849fc64/Criar%20a%20Home%20do%20Site.png))
+![card-tela-da-home](https://github.com/NomaSolutions/EAP/blob/0a39155f8eb53e8fc86daff0bdd6ee692849fc64/Criar%20a%20Home%20do%20Site.png)
 
 ---
 
 - Criar a tela de Detalhes de um Item Local
 
-![card-tela-de-detalhes](Tela de Detalhes.png)
+![card-tela-de-detalhes](https://github.com/NomaSolutions/EAP/blob/98240c92880f274e18752e56f3d99674ef2bf10d/Tela%20de%20Detalhes.png)
 
 ---
 ## DO PROJETO
