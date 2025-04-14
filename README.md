@@ -60,7 +60,7 @@ Cards das tarefas na mesma ordem em que estão no diagrama (de cima para baixo)
 
 - Criar a tela de Login
 
-![card-tela-de-login](Criar Tela de Login.png)
+![card-tela-de-login](CriarTeladeLogin.png)
 
 ---
 
