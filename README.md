@@ -60,19 +60,19 @@ Cards das tarefas na mesma ordem em que estão no diagrama (de cima para baixo)
 
 - Criar a tela de Login
 
-![card-mensageria](CriarTeladeLogin.png)
+![card-tela-de-login](Criar Tela de Login.png)
 
 ---
 
 - Criar a tela da Home
 
-![card-mensageria](CriaraHomedoSite.png)
+![card-tela-da-home](Criar a Home do Site.png)
 
 ---
 
 - Criar a tela de Detalhes de um Item Local
 
-![card-mensageria](TeladeDetalhes.png)
+![card-tela-de-detalhes](Tela de Detalhes.png)
 
 ---
 ## DO PROJETO
