@@ -58,6 +58,22 @@ Cards das tarefas na mesma ordem em que estão no diagrama (de cima para baixo)
 ---
 ## FRONTEND
 
+- Criar a tela de Login
+
+![card-mensageria](CriarTeladeLogin.png)
+
+---
+
+- Criar a tela da Home
+
+![card-mensageria](CriaraHomedoSite.png)
+
+---
+
+- Criar a tela de Detalhes de um Item Local
+
+![card-mensageria](TeladeDetalhes.png)
+
 ---
 ## DO PROJETO
 
