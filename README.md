@@ -97,7 +97,7 @@ Cards das tarefas na mesma ordem em que estão no diagrama (de cima para baixo)
 
 - Termo de Abertura do Projeto:
   
-![metricas-do-projeto](/assets/Metricas.png)
+![termo-de-abertura-do-projeto](/assets/termo-de-abertura-do-projeto.png)
 
 ---
 ## DA EQUIPE
