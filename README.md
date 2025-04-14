@@ -1,7 +1,7 @@
 ## Estrutura Analítica do Projeto Completo
 ### De 09/04/2025 -> Atualizado -> 14/04/2025 
 
-![EAP](./)
+![EAP](./EAP_COMPLETA.png)
 
 **Para ver o diagrama no lucidchart [clique aqui](https://lucid.app/lucidchart/c4e99bf2-af1c-4f5f-9933-e0916c39d1bd/edit?viewport_loc=-139%2C431%2C2675%2C1238%2CHWEp-vi-RSFO&invitationId=inv_55773bf5-c7cb-4330-ad39-05a875fe79ad](https://lucid.app/lucidchart/c4e99bf2-af1c-4f5f-9933-e0916c39d1bd/edit?viewport_loc=580%2C294%2C3326%2C1546%2CHWEp-vi-RSFO&invitationId=inv_55773bf5-c7cb-4330-ad39-05a875fe79ad)))**
 
