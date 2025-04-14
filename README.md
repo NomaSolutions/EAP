@@ -1,6 +1,5 @@
-![image](https://lucid.app/lucidchart/c4e99bf2-af1c-4f5f-9933-e0916c39d1bd/edit?viewport_loc=322%2C234%2C3326%2C1546%2CHWEp-vi-RSFO&invitationId=inv_55773bf5-c7cb-4330-ad39-05a875fe79ad)# Explicação decomposição EAP Noma Solutions
-## Ramificação Noma Solutions -> Desenvolvimento -> Backend 
-### 09/04/2025
+## Estrutura Analítica do Projeto Completo
+### De 09/04/2025 -> Atualizado -> 14/04/2025 
 
 ![EAP](./EAPCOMPLETA.png)
 
